@@ -1,3 +1,5 @@
+![Captura de Tela (131)](https://user-images.githubusercontent.com/101683017/191161966-db79623e-7dc7-4780-84fb-dc043ba5240c.png)
+![Captura de Tela (132)](https://user-images.githubusercontent.com/101683017/191161964-31d04dd6-5c58-411a-8de8-2be3cbb0716e.png)
 ************************************************************************************************************
 Programa: Jogo da Velha React
 <br>
